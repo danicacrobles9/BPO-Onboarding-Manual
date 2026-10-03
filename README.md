@@ -1,1 +1,0 @@
-# BPO-Onboarding-Manual
