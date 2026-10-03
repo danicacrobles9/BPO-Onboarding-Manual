@@ -22,10 +22,10 @@ Welcome to the Team! This document serves as the official handbook to guide new 
 ## 📜 Employee Compliance Checklist
 
 Every new hire must upload digital copies of the following documents to the HR Portal within their first week:
-[ ] Signed Employment Contract
-[ ] Valid Government ID (e.g., SSS, PhilHealth, Pag-IBIG)
-[ ] Barangay Clearance / NBI Clearance
-[ ] Solo Parent Identification Card *(if applicable for flexible shift options)*
+ [ ] Signed Employment Contract
+ [ ] Valid Government ID (e.g., SSS, PhilHealth, Pag-IBIG)
+ [ ] Barangay Clearance / NBI Clearance
+ [ ] Solo Parent Identification Card *(if applicable for flexible shift options)*
 
 ---
 
